@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  17 OCT 2022 01:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  17 OCT 2022 02:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1619,8 +1619,7 @@ Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input 
 File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count356
 \l__pdf_internal_box=\box75
-)
-No file 2022_Отчет_НИР_ДомостроениеАрктики.aux.
+) (./2022_Отчет_НИР_ДомостроениеАрктики.aux (./macros.inc.aux) (./00-title.aux) (./abr_300_results.aux) (./abr_CH01_experience_indigenous.aux) (./abr_CH01_experience_goverments.aux) (./abr_CH01_conclusion.aux) (./80-conclusion.aux) (./81-biblio.aux))
 \openout1 = `2022_Отчет_НИР_ДомостроениеАрктики.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1647,7 +1646,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 9.
 LaTeX Info: Redefining \th on input line 9.
-(p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/ucs/ucsencs.def
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -1693,6 +1692,7 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 9.
+(./2022_Отчет_НИР_ДомостроениеАрктики.out) (./2022_Отчет_НИР_ДомостроениеАрктики.out)
 \@outlinefile=\write5
 \openout5 = `2022_Отчет_НИР_ДомостроениеАрктики.out'.
 
@@ -1711,7 +1711,7 @@ LaTeX Info: Redefining \showhyphens on input line 9.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1762,10 +1762,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
 [2
 
-]
-No file 2022_Отчет_НИР_ДомостроениеАрктики.toc.
+] (./2022_Отчет_НИР_ДомостроениеАрктики.toc)
 \tf@toc=\write6
 \openout6 = `2022_Отчет_НИР_ДомостроениеАрктики.toc'.
+
 
 No file 2022_Отчет_НИР_ДомостроениеАрктики.nls.
 [3
@@ -1775,7 +1775,19 @@ No file 2022_Отчет_НИР_ДомостроениеАрктики.nls.
 
  (./abr_300_results.tex
  1.
-) [4
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)) [4
 
 
 ]
@@ -1808,36 +1820,40 @@ No file 2022_Отчет_НИР_ДомостроениеАрктики.nls.
 ]
 \openout2 = `81-biblio.aux'.
 
- (./81-biblio.tex
-No file 2022_Отчет_НИР_ДомостроениеАрктики.bbl.
-) 
+ (./81-biblio.tex (./2022_Отчет_НИР_ДомостроениеАрктики.bbl
+Underfull \hbox (badness 5954) in paragraph at lines 12--16
+[]\T2A/cmr/m/it/14.4 (+20) ��������, �. �. \T2A/cmr/m/n/14.4 (+20) ����������������� �������������� /
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 19--22
+[]\T2A/cmr/m/it/14.4 (+20) ��������, �. �. \T2A/cmr/m/n/14.4 (+20) ����������������� ������ ����������
+ []
+
+)) [8
+
+
+
+
+] 
 AED: lastpage setting LastPage
 (./2022_Отчет_НИР_ДомостроениеАрктики.aux (./macros.inc.aux) (./00-title.aux) (./abr_300_results.aux) (./abr_CH01_experience_indigenous.aux) (./abr_CH01_experience_goverments.aux) (./abr_CH01_conclusion.aux) (./80-conclusion.aux) (./81-biblio.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `2022_Отчет_НИР_ДомостроениеАрктики.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `2022_Отчет_НИР_ДомостроениеАрктики.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9684B8D1146A33746AEF87FD6DE159B0;1653.
+Package rerunfilecheck Info: File `2022_Отчет_НИР_ДомостроениеАрктики.out' has not changed.
+(rerunfilecheck)             Checksum: 2C961B7E08369EE1BC0CB358FE1E5AE3;1969.
  ) 
 Here is how much of TeX's memory you used:
- 30492 strings out of 477678
- 577015 string characters out of 5824984
- 928516 words of memory out of 5000000
- 48619 multiletter control sequences out of 15000+600000
- 473492 words of font info for 60 fonts, out of 8000000 for 9000
+ 30711 strings out of 477678
+ 581214 string characters out of 5824984
+ 936098 words of memory out of 5000000
+ 48729 multiletter control sequences out of 15000+600000
+ 479856 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,5n,134p,1054b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (7 pages, 42238 bytes).
+ 140i,8n,134p,1054b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (8 pages, 77983 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 8305 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 20641 words of extra memory for PDF output out of 20736 (max. 10000000)
 
