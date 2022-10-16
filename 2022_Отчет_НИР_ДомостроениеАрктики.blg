@@ -7,13 +7,12 @@ A level-1 auxiliary file: abr_300_results.aux
 A level-1 auxiliary file: abr_CH01_experience_indigenous.aux
 A level-1 auxiliary file: abr_CH01_experience_goverments.aux
 A level-1 auxiliary file: abr_CH01_conclusion.aux
-A level-1 auxiliary file: 80-conclusion.aux
 A level-1 auxiliary file: 81-biblio.aux
 The style file: gost780u.bst
 Database file #1: abr.bib
 You've used 2 entries,
             2674 wiz_defined-function locations,
-            655 strings with 5559 characters,
+            654 strings with 5542 characters,
 and the built_in function-call counts, 442 in all, are:
 = -- 51
 > -- 13
