@@ -15,6 +15,13 @@ citecolor=black, menucolor=black, filecolor=black,
 
 \AfterHyperrefFix
 
+% Альтернативный Пакет для создания списка терминов со ссылками на них
+\usepackage{glossaries}
+\usepackage[stylemods,style=long3col]{glossaries-extra}
+\setabbreviationstyle[acronym]{long-short}
+\makenoidxglossaries
+
+
 \usepackage{microtype}% полезный пакет для микротипографии, увы под xelatex мало чего умеет, но под pdflatex хорошо улучшает читаемость
 
 % Тире могут быть невидимы в Adobe Reader

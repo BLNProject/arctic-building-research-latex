@@ -1,41 +1,21 @@
 \begin{thebibliography}{1}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
-\else\selectlanguage{#1}\fi}
-\providecommand*{\href}[2]{{\small #2}}
-\providecommand*{\url}[1]{{\small #1}}
-\providecommand*{\BibUrl}[1]{\url{#1}}
-\providecommand{\BibAnnote}[1]{}
-\providecommand*{\BibEmph}[1]{#1}
-
-\bibitem{up_Avdotin_GradProektirovanie}
-\selectlanguageifdefined{russian}
-\BibEmph{Авдотьин,~Л.~Н.} Градостроительное
-  проектирование [{Текст}]~/ Л.~Н.~Авдотьин,
-  И.~Г.~Лежава, И.~М.~Смоляр. "---
-\newblock Москва~: Стройиздат, 1989. "---
-\newblock 432~{с.}
-
-\bibitem{nomads_Golovnev_NomadsTechAtlas}
-\selectlanguageifdefined{russian}
-\BibEmph{Головнёв,~А.~В.} Арктика: атлас кочевых
-  технологий [{Текст}]~/ А.~В.~Головнёв,
-  Д.~А.~Куканов, Е.~В.~Перевалова. "---
-\newblock СПб.~: МАЭ РАН, 2018. "---
-\newblock 352~{с.}
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
 \bibitem{law_RU_GradoCodex}
 \selectlanguageifdefined{russian}
 Градостроительный кодекс Российской
-  Федерации [{Электронный ресурс}]. "---
-\newblock принят Гос. Думой 22 декабря 2004 г.,
-  одобрен Советом Федерации 24 декабря 2004 г.~:
-  ред. от 14.07.2022, с изм. и доп., вступ. в силу с
-  01.09.2022., Доступ из справ.-правовой системы
+  Федерации :принят Гос. Думой 22 декабря 2004
+  г., одобрен Советом Федерации 24 декабря 2004
+  г. ред. от 14.07.2022, с изм. и доп., вступ. в силу
+  с 01.09.2022. Доступ из справ.-правовой системы
   «Официальный интернет-портал правовой
-  информации». "---
-\newblock URL:
-  \BibUrl{http://www.pravo.gov.ru/proxy/ips/?docbody%5C&nd=102090643}
-  ({дата обращения}: 23.09.2022).
+  информации». \BibUrl{
+  http://www.pravo.gov.ru/proxy/ips/?docbody%5C&nd=102090643}.
 
 \end{thebibliography}

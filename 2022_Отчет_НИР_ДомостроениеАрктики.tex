@@ -6,6 +6,11 @@
 % Остальные стандартные настройки убраны в preamble.inc.tex.
 \include{preamble.inc}
 
+% Подключение словарей терминов и сокращений
+\input{abr_glossary_abbrev}
+
+% \usepackage{./assets/shema_bycountry_energyefficiency_compare}
+
 \begin{document}
 % Настройки листингов.
 \ifPDFTeX
@@ -14,6 +19,7 @@
 \usepackage{local-minted}
 \usepackage{lastpage}
 \fi
+
 
 % Полезные макросы листингов.
 \include{macros.inc}
@@ -34,7 +40,7 @@
 \personalSignature{Второй исполнитель}{ФИО}
 \end{executors}
 
-%\listoffigures                         % Список рисунков
+% \listoffigures                         % Список рисунков
 
 %\listoftables                          % Список таблиц
 
@@ -50,7 +56,18 @@
 
 \tableofcontents
 
-\printnomenclature % Автоматический список сокращений
+% \Abbreviations
+% \printnomenclature % Автоматический список сокращений
+
+% Распечатка списка сокращений
+% \setacronymstyle{long-short}
+% \printnoidxglossaries
+\printnoidxglossary[sort=word]% main glossary
+% \printnoidxglossary[type=symbols,% symbols glossary
+% sort=use]
+
+% \include{10-defines}
+% \include{11-abbrev}
 
 % \include{12-intro}
 
@@ -63,10 +80,8 @@
 % \include{60-economics}
 % \include{70-bzd}
 
-\include{abr_300_results}
-\include{abr_CH01_experience_indigenous}
-\include{abr_CH01_experience_goverments}
-\include{abr_CH01_conclusion}
+\include{./st1/ch03/analysys_energyefficent_building}
+
 
 \backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
             
