@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -6,6 +6,43 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{2012_nomads_Canada_AFN}
+\selectlanguageifdefined{english}
+\BibEmph{{Lateral Office}}. ARCTIC FOOD NETWORK: Regional Food-gathering
+  Cabins. ---
+\newblock 2012. \BibUrl{ http://lateraloffice.com/ARCTIC-FOOD-NETWORK-2011-12}.
+
+\bibitem{law_FIN_govMinEnvSecurity}
+\selectlanguageifdefined{english}
+Minister Ohisalo: Accelerating the green transition will also strengthen
+  Finland's comprehensive security. Ministry of the Environment. \BibUrl{
+  {https://ym.fi/en/-/minister-ohisalo-accelerating-the-green-transition-will-also-strengthen-finland-s-comprehensive-security}}.
+
+\bibitem{law_RU_govAggregatorArcticStandart}
+\selectlanguageifdefined{russian}
+Арктический стандарт. Стандарт развития
+  городской среды и благоустройства
+  общественных и дворовых пространств
+  арктических поселений. \BibUrl{
+  https://arctic-russia.ru/arctic-standard/}.
+
+\bibitem{law_RU_RulesCode_BuildingMicroclimateResedentialPublic}
+\selectlanguageifdefined{russian}
+ГОСТ 30494-2011. Здания жилые и общественные.
+  Параметры микроклимата в помещениях.
+  Доступ из справ.-правовой системы
+  «Интернет и Право». \BibUrl{
+  https://internet-law.ru/gosts/gost/52219/}.
+
+\bibitem{law_RU_fz_EnergyEff}
+\selectlanguageifdefined{russian}
+Градостроительный кодекс Российской
+  Федерации :принят Гос. Думой 11 ноября 2009 г.,
+  одобрен Советом Федерации 18 ноября 2009 г.
+  Доступ из информационной системы
+  Президента РФ «kremlin.ru». \BibUrl{
+  http://www.kremlin.ru/acts/bank/30163/page/1}.
 
 \bibitem{law_RU_GradoCodex}
 \selectlanguageifdefined{russian}
@@ -17,5 +54,76 @@
   «Официальный интернет-портал правовой
   информации». \BibUrl{
   http://www.pravo.gov.ru/proxy/ips/?docbody%5C&nd=102090643}.
+
+\bibitem{law_FIN_RulesCode_LanduseAndBuilding}
+\selectlanguageifdefined{english}
+Закон о землепользовании и строительстве =
+  Maankäyttö- ja rakennuslaki. Доступ из справ.-правовой
+  системы «FINLEX». \BibUrl{
+  https://finlex.fi/fi/laki/ajantasa/1999/19990132#L4P28}.
+
+\bibitem{1989up_Poluyi_ArchGradoVsurovomKlimate}
+\selectlanguageifdefined{russian}
+\BibEmph{Полуй~Б.~М.} Архитектура и
+  градостроительство в суровом климате. ---
+\newblock Л.: Стройиздат : Ленингр. отд-ние, 1989. ---
+\newblock 369~{с.}
+
+\bibitem{law_RU_RulesCode_BuildingClimatology}
+\selectlanguageifdefined{russian}
+СП 131.13330.2020 Строительная климатология.
+  Доступ из справ.-правовой системы «СНиП
+  РФ». \BibUrl{ http://sniprf.ru/sp131-13330-2012}.
+
+\bibitem{law_RU_Rules_Code_BuildingEnclosingConstruction}
+\selectlanguageifdefined{russian}
+СП 230.1325800.2015 Конструкции ограждающие
+  зданий. Характеристики теплотехнических
+  неоднородностей (с Изменением N 1). Доступ
+  из справ.-правовой системы «СНиП РФ». \BibUrl{
+  http://sniprf.ru/sp230-1325800-2015}.
+
+\bibitem{law_RU_Rules_Code_ThermalPerformance}
+\selectlanguageifdefined{russian}
+СП 50.13330.2012 Тепловая защита зданий.
+  Актуализированная редакция СНиП 23-02-2003 (с
+  Изменением N 1). Доступ из справ.-правовой
+  системы «СНиП РФ». \BibUrl{ http://sniprf.ru/sp50-13330-2012}.
+
+\bibitem{law_NORW_RulesCode_Natureuse}
+\selectlanguageifdefined{english}
+Саамское природопользование и правовое
+  положение от Хедмарка до Тромса:
+  Использование природы саами и правовая
+  ситуация от Хедмарка до Тромса —
+  Справочные материалы для Комитета по
+  правам саами = Samisk naturbruk og retts­-situasjon fra Hedmark
+  til Troms: Samisk naturbruk og retts­-situasjon fra Hedmark til Troms —
+  Bakgrunnsmateriale for Samerettsutvalget. Доступ из
+  справ.-правовой системы Министерства
+  юстиции и общественной безопасности
+  Норвегии. \BibUrl{
+  https://www.regjeringen.no/no/dokumenter/nou-2007-14/id584312/}.
+
+\bibitem{2003buee_Tabunshikov}
+\selectlanguageifdefined{russian}
+\BibEmph{Табунщиков~Юрий~Андреевич,
+  Бродач~М.~М., Шилкин~Н.~В.}
+  Энергоэффективные здания. ---
+\newblock М.: АВОК-ПРЕСС, 2003. ---
+\newblock 200~{с.}
+
+\bibitem{1996up_Turalysov_BiospherRasseleniye}
+\selectlanguageifdefined{russian}
+\BibEmph{Туралысов~К.~Г.}
+  Биосфера-расселение-жилище Севера. ---
+\newblock Якутск: Сахаполиграфиздат, 1996. ---
+\newblock 104~{с.}
+
+\bibitem{law_US_govAggregatorAlaskaHousingFinCorp}
+\selectlanguageifdefined{english}
+Финансовая Коорпорация Индивидуального
+  Домостроения Аляски = Alaska Housing Finance Corporation.
+  \BibUrl{ https://www.ahfc.us/efficiency}.
 
 \end{thebibliography}

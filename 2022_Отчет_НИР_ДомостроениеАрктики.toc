@@ -1,20 +1,19 @@
 \babel@toc {russian}{}\relax 
 \contentsline {chapter}{\numberline {1}Анализ опыта и требований в проектировании энергоэффективных зданий и сооружений в Арктике}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Российской Федерации}}{6}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Модельные классы застройки}{6}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Опыт применения}{6}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Модельные метрики потребления энергии}{6}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}Методы регулирования}{6}{subsection.1.1.4}%
-\contentsline {section}{\numberline {1.2}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Соединённых Штатов Америки}}{6}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Модельные классы застройки}{6}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Модельные метрики потребления энергии}{6}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Методы регулирования}{6}{subsection.1.2.3}%
-\contentsline {section}{\numberline {1.3}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Норвегии}}{6}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Модельные классы застройки}{6}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Модельные метрики потребления энергии}{6}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Методы регулирования}{6}{subsection.1.3.3}%
-\contentsline {section}{\numberline {1.4}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Финляндии}}{6}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Модельные классы застройки}{6}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Модельные метрики потребления энергии}{6}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Методы регулирования}{6}{subsection.1.4.3}%
-\contentsline {chapter}{Список~ использованных~ источников}{7}{chapter*.5}%
+\contentsline {section}{\numberline {1.1}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Российской Федерации}}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Методы регулирования}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Опыт реализации зданий}{8}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Соединённых Штатов Америки}}{15}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Методы регулирования}{15}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Опыт реализации зданий}{15}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Канады}}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Методы регулирования}{15}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Опыт реализации зданий}{16}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Норвегии}}{17}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Методы регулирования}{17}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Опыт реализации зданий}{18}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}\textbf {Оценка опыта и требований в проектировании энергоэффективных зданий Финляндии}}{18}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Методы регулирования}{18}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Опыт реализации зданий}{20}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}\textbf {Выводы}}{20}{section.1.6}%
+\contentsline {chapter}{Список~ использованных~ источников}{25}{chapter*.18}%

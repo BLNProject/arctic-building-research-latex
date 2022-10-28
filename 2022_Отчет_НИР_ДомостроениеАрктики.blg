@@ -9,48 +9,72 @@ The style file: ./BibTeX-Styles/utf8gost71s.bst
 Database file #1: ./bibliography/2022/common_laws.bib
 Warning--entry type for "law_RU_GradoCodex" isn't style-file defined
 --line 5 of file ./bibliography/2022/common_laws.bib
-Database file #2: ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
-Database file #3: ./bibliography/2022/research_arcticbuildtech_urbanPlanningTexts.bib
+Warning--entry type for "law_RU_fz_EnergyEff" isn't style-file defined
+--line 25 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_RU_Rules_Code_ThermalPerformance" isn't style-file defined
+--line 45 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_RU_Rules_Code_BuildingEnclosingConstruction" isn't style-file defined
+--line 65 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_RU_RulesCode_BuildingClimatology" isn't style-file defined
+--line 85 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_RU_RulesCode_BuildingMicroclimateResedentialPublic" isn't style-file defined
+--line 105 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_FIN_RulesCode_LanduseAndBuilding" isn't style-file defined
+--line 143 of file ./bibliography/2022/common_laws.bib
+Warning--entry type for "law_NORW_RulesCode_Natureuse" isn't style-file defined
+--line 169 of file ./bibliography/2022/common_laws.bib
+Database file #2: ./bibliography/2022/common_energyEfficiency.bib
+Database file #3: ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
+Warning--entry type for "2012_nomads_Canada_AFN" isn't style-file defined
+--line 29 of file ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
+Database file #4: ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
+Warning--entry type for "law_RU_govAggregatorArcticStandart" isn't style-file defined
+--line 5 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
+Warning--entry type for "law_US_govAggregatorAlaskaHousingFinCorp" isn't style-file defined
+--line 31 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
+Warning--entry type for "law_FIN_govMinEnvSecurity" isn't style-file defined
+--line 63 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
+Database file #5: ./bibliography/2022/research_arcticbuildtech_urbanPlanningTexts.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 1 entry,
+You've used 15 entries,
             3036 wiz_defined-function locations,
-            694 strings with 6192 characters,
-and the built_in function-call counts, 209 in all, are:
-= -- 21
-> -- 1
-< -- 0
-+ -- 1
-- -- 0
-* -- 9
-:= -- 37
-add.period$ -- 2
-call.type$ -- 1
+            766 strings with 11024 characters,
+and the built_in function-call counts, 3178 in all, are:
+= -- 391
+> -- 54
+< -- 7
++ -- 27
+- -- 12
+* -- 141
+:= -- 448
+add.period$ -- 38
+call.type$ -- 15
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 9
-empty$ -- 21
-format.name$ -- 0
-if$ -- 43
+cite$ -- 15
+duplicate$ -- 157
+empty$ -- 349
+format.name$ -- 12
+if$ -- 781
 int.to.chr$ -- 0
-int.to.str$ -- 1
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 14
-num.names$ -- 0
-pop$ -- 7
+newline$ -- 77
+num.names$ -- 18
+pop$ -- 113
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 47
 quote$ -- 0
-skip$ -- 5
+skip$ -- 81
 stack$ -- 0
-substring$ -- 9
-swap$ -- 3
+substring$ -- 119
+swap$ -- 63
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 2
-write$ -- 18
-(There was 1 warning)
+while$ -- 8
+width$ -- 17
+write$ -- 172
+(There were 12 warnings)

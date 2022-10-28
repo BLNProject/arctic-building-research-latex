@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  20 OCT 2022 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  21 OCT 2022 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,8 +12,8 @@ Document Class: G7-32 2015/11/01 v2.0 Non Standard LaTeX document class
 Package: G2-105 2015/11/01 v2.00 General reqs. GOST 2.105-95
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (./GostBase.clo (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (./GostBase.clo (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 ))
 \c@totalpage=\count185
 \c@totaltable=\count186
@@ -1734,11 +1734,11 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
 )
-Package newfloat Info: New float `eqndescNoIndent' with options ` placement={!ht}, name=Equation ' on input line 67.
+Package newfloat Info: New float `eqndescNoIndent' with options ` placement={!ht}, name=Equation ' on input line 68.
 \c@eqndescNoIndent=\count379
 \newfloat@ftype=\count380
-Package newfloat Info: float type `eqndescNoIndent'=8 on input line 67.
-Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input line 67.
+Package newfloat Info: float type `eqndescNoIndent'=8 on input line 68.
+Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input line 68.
 ) (./abr_glossary_abbrev.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count381
@@ -1790,23 +1790,23 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
 * v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=455.24411pt
+* \textwidth=469.47049pt
 * \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-29.36449pt
-* \headheight=14.0pt
+* \topmargin=-27.36449pt
+* \headheight=12.0pt
 * \headsep=0.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=15.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1904,33 +1904,145 @@ Using TeX to sort glossary entries---this may take a while
  (./st1/ch03/analysys_energyefficent_building.tex
  1.
 (./st1/ch03/analysys_ee_russia.tex
-Underfull \hbox (badness 1675) in paragraph at lines 1--1
- |[]\T2A/cmr/bx/n/14.4 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
+[5
+
+
+] [6] [7] [8]
+<assets/figures/st1ch03_ruexp_001.png, id=197, 722.7pt x 459.21562pt>
+File: assets/figures/st1ch03_ruexp_001.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_001.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_001.png  used on input line 83.
+(pdftex.def)             Requested size: 469.47049pt x 298.31143pt.
+<assets/figures/st1ch03_ruexp_003.png, id=204, 666.23906pt x 143.78719pt>
+File: assets/figures/st1ch03_ruexp_003.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_003.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_003.png  used on input line 96.
+(pdftex.def)             Requested size: 469.47049pt x 101.3217pt.
+<assets/figures/st1ch03_ruexp_004.png, id=206, 613.54219pt x 423.08063pt>
+File: assets/figures/st1ch03_ruexp_004.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_004.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_004.png  used on input line 105.
+(pdftex.def)             Requested size: 469.47049pt x 323.7331pt.
+<assets/figures/st1ch03_ruexp_005.png, id=207, 598.48593pt x 412.54124pt>
+File: assets/figures/st1ch03_ruexp_005.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_005.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_005.png  used on input line 114.
+(pdftex.def)             Requested size: 469.47049pt x 323.61269pt.
+<assets/figures/st1ch03_ruexp_006.png, id=208, 722.7pt x 365.86688pt>
+File: assets/figures/st1ch03_ruexp_006.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_006.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_006.png  used on input line 122.
+(pdftex.def)             Requested size: 469.47049pt x 237.67108pt.
+<assets/figures/st1ch03_ruexp_007.png, id=209, 350.05782pt x 241.65282pt>
+File: assets/figures/st1ch03_ruexp_007.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_007.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_007.png  used on input line 130.
+(pdftex.def)             Requested size: 469.47049pt x 324.10806pt.
+<assets/figures/st1ch03_ruexp_002.png, id=210, 1533.47906pt x 2002.48125pt>
+File: assets/figures/st1ch03_ruexp_002.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_002.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_002.png  used on input line 138.
+(pdftex.def)             Requested size: 469.47049pt x 613.03227pt.
+<assets/figures/st1ch03_ruexp_008.png, id=211, 913.16156pt x 420.82219pt>
+File: assets/figures/st1ch03_ruexp_008.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_008.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_008.png  used on input line 146.
+(pdftex.def)             Requested size: 469.47049pt x 216.3502pt.
+<assets/figures/st1ch03_ruexp_009.png, id=212, 911.65594pt x 448.67625pt>
+File: assets/figures/st1ch03_ruexp_009.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_009.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_009.png  used on input line 154.
+(pdftex.def)             Requested size: 469.47049pt x 231.05373pt.
+<assets/figures/st1ch03_ruexp_010.png, id=213, 700.11563pt x 468.24937pt>
+File: assets/figures/st1ch03_ruexp_010.png Graphic file (type png)
+<use assets/figures/st1ch03_ruexp_010.png>
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_010.png  used on input line 162.
+(pdftex.def)             Requested size: 469.47049pt x 313.99695pt.
 ) (./st1/ch03/analysys_ee_usa.tex
-Underfull \hbox (badness 1675) in paragraph at lines 1--1
- |[]\T2A/cmr/bx/n/14.4 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-) (./st1/ch03/analysys_ee_norway.tex
-Underfull \hbox (badness 1675) in paragraph at lines 1--1
- |[]\T2A/cmr/bx/n/14.4 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
+[9
+
+ <./assets/figures/st1ch03_ruexp_001.png> <./assets/figures/st1ch03_ruexp_003.png>] [10 <./assets/figures/st1ch03_ruexp_004.png>] [11 <./assets/figures/st1ch03_ruexp_005.png> <./assets/figures/st1ch03_ruexp_006.png>] [12 <./assets/figures/st1ch03_ruexp_007.png>] [13 <./assets/figures/st1ch03_ruexp_002.png>] [14 <./assets/figures/st1ch03_ruexp_008.png> <./assets/figures/st1ch03_ruexp_009.png>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)) (./st1/ch03/analysys_ee_canada.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
+ []
+
+[15]
+<assets/figures/ch01_s10_sci_AFN01_calendar.png, id=276, 1003.75pt x 853.1875pt>
+File: assets/figures/ch01_s10_sci_AFN01_calendar.png Graphic file (type png)
+<use assets/figures/ch01_s10_sci_AFN01_calendar.png>
+Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_calendar.png  used on input line 33.
+(pdftex.def)             Requested size: 469.47049pt x 399.05841pt.
+<assets/figures/ch01_s10_sci_AFN01_nodeSection.png, id=277, 1003.75pt x 550.055pt>
+File: assets/figures/ch01_s10_sci_AFN01_nodeSection.png Graphic file (type png)
+<use assets/figures/ch01_s10_sci_AFN01_nodeSection.png>
+Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_nodeSection.png  used on input line 47.
+(pdftex.def)             Requested size: 469.47049pt x 257.2753pt.
+ [16]) (./st1/ch03/analysys_ee_norway.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
 ) (./st1/ch03/analysys_ee_finland.tex
-Underfull \hbox (badness 1675) in paragraph at lines 1--1
- |[]\T2A/cmr/bx/n/14.4 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-)) [5
+[17] [18] [19]
+<assets/figures/st1ch03_finexp_001.png, id=312, 376.40625pt x 252.945pt>
+File: assets/figures/st1ch03_finexp_001.png Graphic file (type png)
+<use assets/figures/st1ch03_finexp_001.png>
+Package pdftex.def Info: assets/figures/st1ch03_finexp_001.png  used on input line 78.
+(pdftex.def)             Requested size: 469.47049pt x 315.5089pt.
+)
+Overfull \hbox (16.57709pt too wide) in alignment at lines 34--39
+[] [] [] [] [] 
+ []
 
 
-] [6]
+Overfull \hbox (16.57709pt too wide) in alignment at lines 39--41
+[] [] [] [] [] 
+ []
+
+
+Overfull \hbox (16.57709pt too wide) in alignment at lines 41--43
+[] [] [] [] [] 
+ []
+
+
+Overfull \hbox (16.57709pt too wide) in alignment at lines 43--44
+[] [] [] [] [] 
+ []
+
+
+Overfull \hbox (16.57709pt too wide) in alignment at lines 44--58
+[] [] [] [] [] 
+ []
+
+[20]) [21] [22 <./assets/figures/st1ch03_ruexp_010.png>] [23 <./assets/figures/ch01_s10_sci_AFN01_calendar.png (PNG copy)>] [24 <./assets/figures/ch01_s10_sci_AFN01_nodeSection.png (PNG copy)> <./assets/figures/st1ch03_finexp_001.png>]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.bbl
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 19.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 14.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
@@ -1938,42 +2050,40 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T2A).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
- (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
- (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))) [7
+
+Underfull \hbox (badness 1077) in paragraph at lines 18--21
+[]\T2A/cmr/m/n/12 (+20) Minister Ohisa^^?lo: Ac^^?cel^^?er^^?at^^?ing the green tran^^?si^^?tion will al^^?so strength^^?en
+ []
+
+
+Overfull \hbox (206.36581pt too wide) in paragraph at lines 18--21
+\T2A/cmtt/m/n/12 minister-[]ohisalo-[]accelerating-[]the-[]green-[]transition-[]will-[]also-[]strengthen-[]finland-[]s-[]comprehensive-[]security}$[][]\T2A/cmr/m/n/12 (-20) . 
+ []
+
+[25
 
 
 
 
-] 
+])) [26] 
 AED: lastpage setting LastPage
 (./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux (./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./81-biblio.aux))
 Package rerunfilecheck Info: File `2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.out' has not changed.
-(rerunfilecheck)             Checksum: A453040D9B714ED56EA3F7E032ABE621;7554.
+(rerunfilecheck)             Checksum: F224B12E260C329EB3CA04E136D55952;7023.
  ) 
 Here is how much of TeX's memory you used:
- 38789 strings out of 477678
- 752079 string characters out of 5824984
- 1184246 words of memory out of 5000000
- 56728 multiletter control sequences out of 15000+600000
- 475391 words of font info for 65 fonts, out of 8000000 for 9000
+ 39171 strings out of 477678
+ 760116 string characters out of 5824984
+ 1198497 words of memory out of 5000000
+ 56908 multiletter control sequences out of 15000+600000
+ 485956 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,5n,134p,1244b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.pdf (7 pages, 86600 bytes).
+ 140i,9n,134p,1244b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on 2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.pdf (26 pages, 17486525 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 11033 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 418 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 25426 words of extra memory for PDF output out of 29859 (max. 10000000)
 
