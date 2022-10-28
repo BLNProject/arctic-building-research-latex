@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  21 OCT 2022 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  29 OCT 2022 02:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1425,23 +1425,32 @@ Package: glossaries-extra 2021/11/22 v1.48 (NLCT)
 Package: glossaries-extra-stylemods 2021/11/22 v1.48 (NLCT)
 \glsxtrAltTreeIndent=\skip86
 \glsxtrtreetopindent=\skip87
-)) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+)) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen189
+\ar@mcellbox=\box61
+\extrarowheight=\dimen190
+\NC@list=\toks44
+\extratabsurround=\skip88
+\backup@length=\skip89
+\ar@cellbox=\box62
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
-\MT@toks=\toks44
-\MT@tempbox=\box61
+\MT@toks=\toks45
+\MT@tempbox=\box63
 \MT@count=\count337
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
 LaTeX Info: Redefining \leftprotrusion on input line 1046.
 LaTeX Info: Redefining \rightprotrusion on input line 1056.
 LaTeX Info: Redefining \textls on input line 1234.
-\MT@outer@kern=\dimen189
+\MT@outer@kern=\dimen191
 LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
 \MT@listname@count=\count338
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 900.
 LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip88
+\MT@outer@space=\skip90
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
@@ -1461,27 +1470,27 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen190
-\Gin@req@width=\dimen191
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box62
+\collectedbox=\box64
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
 )
-\tc@llx=\dimen192
-\tc@lly=\dimen193
-\tc@urx=\dimen194
-\tc@ury=\dimen195
+\tc@llx=\dimen194
+\tc@lly=\dimen195
+\tc@urx=\dimen196
+\tc@ury=\dimen197
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks45
-\pgfutil@tempdima=\dimen196
-\pgfutil@tempdimb=\dimen197
+\pgfutil@everybye=\toks46
+\pgfutil@tempdima=\dimen198
+\pgfutil@tempdimb=\dimen199
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box63
+\pgfutil@abb=\box65
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
@@ -1489,30 +1498,30 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks46
-\pgfkeys@temptoks=\toks47
+\pgfkeys@pathtoks=\toks47
+\pgfkeys@temptoks=\toks48
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks48
+\pgfkeys@tmptoks=\toks49
 ))
-\pgf@x=\dimen198
-\pgf@y=\dimen199
-\pgf@xa=\dimen256
-\pgf@ya=\dimen257
-\pgf@xb=\dimen258
-\pgf@yb=\dimen259
-\pgf@xc=\dimen260
-\pgf@yc=\dimen261
-\pgf@xd=\dimen262
-\pgf@yd=\dimen263
+\pgf@x=\dimen256
+\pgf@y=\dimen257
+\pgf@xa=\dimen258
+\pgf@ya=\dimen259
+\pgf@xb=\dimen260
+\pgf@yb=\dimen261
+\pgf@xc=\dimen262
+\pgf@yc=\dimen263
+\pgf@xd=\dimen264
+\pgf@yd=\dimen265
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
 \c@pgf@counta=\count339
 \c@pgf@countb=\count340
 \c@pgf@countc=\count341
 \c@pgf@countd=\count342
-\t@pgf@toka=\toks49
-\t@pgf@tokb=\toks50
-\t@pgf@tokc=\toks51
+\t@pgf@toka=\toks50
+\t@pgf@tokb=\toks51
+\t@pgf@tokc=\toks52
 \pgf@sys@id@count=\count343
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -1547,52 +1556,52 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen264
+\pgfmath@dimen=\dimen266
 \pgfmath@count=\count346
-\pgfmath@box=\box64
-\pgfmath@toks=\toks52
-\pgfmath@stack@operand=\toks53
-\pgfmath@stack@operation=\toks54
+\pgfmath@box=\box66
+\pgfmath@toks=\toks53
+\pgfmath@stack@operand=\toks54
+\pgfmath@stack@operation=\toks55
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count347
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen265
-\pgf@picmaxx=\dimen266
-\pgf@picminy=\dimen267
-\pgf@picmaxy=\dimen268
-\pgf@pathminx=\dimen269
-\pgf@pathmaxx=\dimen270
-\pgf@pathminy=\dimen271
-\pgf@pathmaxy=\dimen272
-\pgf@xx=\dimen273
-\pgf@xy=\dimen274
-\pgf@yx=\dimen275
-\pgf@yy=\dimen276
-\pgf@zx=\dimen277
-\pgf@zy=\dimen278
+\pgf@picminx=\dimen267
+\pgf@picmaxx=\dimen268
+\pgf@picminy=\dimen269
+\pgf@picmaxy=\dimen270
+\pgf@pathminx=\dimen271
+\pgf@pathmaxx=\dimen272
+\pgf@pathminy=\dimen273
+\pgf@pathmaxy=\dimen274
+\pgf@xx=\dimen275
+\pgf@xy=\dimen276
+\pgf@yx=\dimen277
+\pgf@yy=\dimen278
+\pgf@zx=\dimen279
+\pgf@zy=\dimen280
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen279
-\pgf@path@lasty=\dimen280
+\pgf@path@lastx=\dimen281
+\pgf@path@lasty=\dimen282
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen281
-\pgf@shorten@start@additional=\dimen282
+\pgf@shorten@end@additional=\dimen283
+\pgf@shorten@start@additional=\dimen284
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box65
-\pgf@hbox=\box66
-\pgf@layerbox@main=\box67
+\pgfpic=\box67
+\pgf@hbox=\box68
+\pgf@layerbox@main=\box69
 \pgf@picture@serial@count=\count348
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen283
+\pgflinewidth=\dimen285
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen284
-\pgf@pt@y=\dimen285
-\pgf@pt@temp=\dimen286
+\pgf@pt@x=\dimen286
+\pgf@pt@y=\dimen287
+\pgf@pt@temp=\dimen288
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -1601,17 +1610,17 @@ File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen287
+\pgfarrowsep=\dimen289
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen288
+\pgf@max=\dimen290
 \pgf@sys@shading@range@num=\count349
 \pgf@shadingcount=\count350
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box68
+\pgfexternal@startupbox=\box70
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -1622,41 +1631,41 @@ File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box69
+\pgfnodeparttextbox=\box71
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen289
-\pgf@nodesepend=\dimen290
+\pgf@nodesepstart=\dimen291
+\pgf@nodesepend=\dimen292
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen291
-\pgffor@skip=\dimen292
-\pgffor@stack=\toks55
-\pgffor@toks=\toks56
+\pgffor@iter=\dimen293
+\pgffor@skip=\dimen294
+\pgffor@stack=\toks56
+\pgffor@toks=\toks57
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count351
-\pgfplotmarksize=\dimen293
+\pgfplotmarksize=\dimen295
 )
-\tikz@lastx=\dimen294
-\tikz@lasty=\dimen295
-\tikz@lastxsaved=\dimen296
-\tikz@lastysaved=\dimen297
-\tikz@lastmovetox=\dimen298
-\tikz@lastmovetoy=\dimen299
-\tikzleveldistance=\dimen300
-\tikzsiblingdistance=\dimen301
-\tikz@figbox=\box70
-\tikz@figbox@bg=\box71
-\tikz@tempbox=\box72
-\tikz@tempbox@bg=\box73
+\tikz@lastx=\dimen296
+\tikz@lasty=\dimen297
+\tikz@lastxsaved=\dimen298
+\tikz@lastysaved=\dimen299
+\tikz@lastmovetox=\dimen300
+\tikz@lastmovetoy=\dimen301
+\tikzleveldistance=\dimen302
+\tikzsiblingdistance=\dimen303
+\tikz@figbox=\box72
+\tikz@figbox@bg=\box73
+\tikz@tempbox=\box74
+\tikz@tempbox@bg=\box75
 \tikztreelevel=\count352
 \tikznumberofchildren=\count353
 \tikznumberofcurrentchild=\count354
@@ -1674,7 +1683,7 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen302
+\arrowsize=\dimen304
 )) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
@@ -1685,29 +1694,20 @@ File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks57
+\@enLab=\toks58
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip89
+\multirow@colwidth=\skip91
 \multirow@cntb=\count360
-\multirow@dima=\skip90
-\bigstrutjot=\dimen303
+\multirow@dima=\skip92
+\bigstrutjot=\dimen305
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
-\pltopsep=\skip91
-\plpartopsep=\skip92
-\plitemsep=\skip93
-\plparsep=\skip94
-\pl@lab=\toks58
-) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen304
-\ar@mcellbox=\box74
-\extrarowheight=\dimen305
-\NC@list=\toks59
-\extratabsurround=\skip95
-\backup@length=\skip96
-\ar@cellbox=\box75
+\pltopsep=\skip93
+\plpartopsep=\skip94
+\plitemsep=\skip95
+\plparsep=\skip96
+\pl@lab=\toks59
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
@@ -1734,11 +1734,11 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
 )
-Package newfloat Info: New float `eqndescNoIndent' with options ` placement={!ht}, name=Equation ' on input line 68.
+Package newfloat Info: New float `eqndescNoIndent' with options ` placement={!ht}, name=Equation ' on input line 71.
 \c@eqndescNoIndent=\count379
 \newfloat@ftype=\count380
-Package newfloat Info: float type `eqndescNoIndent'=8 on input line 68.
-Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input line 68.
+Package newfloat Info: float type `eqndescNoIndent'=8 on input line 71.
+Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input line 71.
 ) (./abr_glossary_abbrev.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count381
@@ -1863,7 +1863,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \openout2 = `00-title.aux'.
 
  (./00-title.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
@@ -1876,12 +1876,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
 
 {p:/AppsFiles/OFFICE/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
  []
 
@@ -2014,27 +2014,37 @@ File: assets/figures/st1ch03_finexp_001.png Graphic file (type png)
 Package pdftex.def Info: assets/figures/st1ch03_finexp_001.png  used on input line 78.
 (pdftex.def)             Requested size: 469.47049pt x 315.5089pt.
 )
-Overfull \hbox (16.57709pt too wide) in alignment at lines 34--39
+Overfull \hbox (21.31061pt too wide) in alignment at lines 34--39
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.57709pt too wide) in alignment at lines 39--41
+Overfull \hbox (21.31061pt too wide) in alignment at lines 39--41
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.57709pt too wide) in alignment at lines 41--43
+Overfull \hbox (21.31061pt too wide) in alignment at lines 41--43
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.57709pt too wide) in alignment at lines 43--44
+Overfull \hbox (21.31061pt too wide) in alignment at lines 43--44
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.57709pt too wide) in alignment at lines 44--58
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/12 (+20) ������- ��^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\T2A/cmr/m/n/12 (+20) ������- ��^^?
+ []
+
+
+Overfull \hbox (21.31061pt too wide) in alignment at lines 44--55
 [] [] [] [] [] 
  []
 
@@ -2056,8 +2066,8 @@ Underfull \hbox (badness 1077) in paragraph at lines 18--21
  []
 
 
-Overfull \hbox (206.36581pt too wide) in paragraph at lines 18--21
-\T2A/cmtt/m/n/12 minister-[]ohisalo-[]accelerating-[]the-[]green-[]transition-[]will-[]also-[]strengthen-[]finland-[]s-[]comprehensive-[]security}$[][]\T2A/cmr/m/n/12 (-20) . 
+Overfull \hbox (200.19232pt too wide) in paragraph at lines 18--21
+\T2A/cmtt/m/n/12 minister-[]ohisalo-[]accelerating-[]the-[]green-[]transition-[]will-[]also-[]strengthen-[]finland-[]s-[]comprehensive-[]security$[][]\T2A/cmr/m/n/12 (-20) . 
  []
 
 [25
@@ -2074,13 +2084,13 @@ Package rerunfilecheck Info: File `2022_Отчет_НИР_Домостроени
 Here is how much of TeX's memory you used:
  39171 strings out of 477678
  760116 string characters out of 5824984
- 1198497 words of memory out of 5000000
+ 1197481 words of memory out of 5000000
  56908 multiletter control sequences out of 15000+600000
  485956 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,9n,134p,1244b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,9n,134p,1244b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (26 pages, 17486525 bytes).
+Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (26 pages, 17486126 bytes).
 PDF statistics:
  418 PDF objects out of 1000 (max. 8388607)
  345 compressed objects within 4 object streams

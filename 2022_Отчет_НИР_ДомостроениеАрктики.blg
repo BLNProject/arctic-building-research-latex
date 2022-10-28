@@ -24,21 +24,23 @@ Warning--entry type for "law_FIN_RulesCode_LanduseAndBuilding" isn't style-file 
 Warning--entry type for "law_NORW_RulesCode_Natureuse" isn't style-file defined
 --line 169 of file ./bibliography/2022/common_laws.bib
 Database file #2: ./bibliography/2022/common_energyEfficiency.bib
-Database file #3: ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
+Database file #3: ./bibliography/2022/institute_iti.bib
+Database file #4: ./bibliography/2022/institute_marchi.bib
+Database file #5: ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
 Warning--entry type for "2012_nomads_Canada_AFN" isn't style-file defined
 --line 29 of file ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
-Database file #4: ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
+Database file #6: ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
 Warning--entry type for "law_RU_govAggregatorArcticStandart" isn't style-file defined
 --line 5 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
 Warning--entry type for "law_US_govAggregatorAlaskaHousingFinCorp" isn't style-file defined
 --line 31 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
 Warning--entry type for "law_FIN_govMinEnvSecurity" isn't style-file defined
 --line 63 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
-Database file #5: ./bibliography/2022/research_arcticbuildtech_urbanPlanningTexts.bib
+Database file #7: ./bibliography/2022/research_arcticbuildtech_urbanPlanningTexts.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 You've used 15 entries,
             3036 wiz_defined-function locations,
-            766 strings with 11024 characters,
+            768 strings with 11091 characters,
 and the built_in function-call counts, 3178 in all, are:
 = -- 391
 > -- 54
