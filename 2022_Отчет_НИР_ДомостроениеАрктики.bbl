@@ -35,15 +35,6 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
   «Интернет и Право». \BibUrl{
   https://internet-law.ru/gosts/gost/52219/}.
 
-\bibitem{law_RU_fz_EnergyEff}
-\selectlanguageifdefined{russian}
-Градостроительный кодекс Российской
-  Федерации :принят Гос. Думой 11 ноября 2009 г.,
-  одобрен Советом Федерации 18 ноября 2009 г.
-  Доступ из информационной системы
-  Президента РФ «kremlin.ru». \BibUrl{
-  http://www.kremlin.ru/acts/bank/30163/page/1}.
-
 \bibitem{law_RU_GradoCodex}
 \selectlanguageifdefined{russian}
 Градостроительный кодекс Российской
@@ -61,6 +52,18 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
   Maankäyttö- ja rakennuslaki. Доступ из справ.-правовой
   системы «FINLEX». \BibUrl{
   https://finlex.fi/fi/laki/ajantasa/1999/19990132#L4P28}.
+
+\bibitem{law_RU_fz_EnergyEff}
+\selectlanguageifdefined{russian}
+Об энергосбережении и о повышении
+  энергетической эффективности и о
+  внесении изменений в отдельные
+  законодательные акты Российской
+  Федерации :принят Гос. Думой 11 ноября 2009 г.,
+  одобрен Советом Федерации 18 ноября 2009 г.
+  Доступ из информационной системы
+  Президента РФ «kremlin.ru». \BibUrl{
+  http://www.kremlin.ru/acts/bank/30163/page/1}.
 
 \bibitem{1989up_Poluyi_ArchGradoVsurovomKlimate}
 \selectlanguageifdefined{russian}
@@ -105,13 +108,14 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
   Норвегии. \BibUrl{
   https://www.regjeringen.no/no/dokumenter/nou-2007-14/id584312/}.
 
-\bibitem{2003buee_Tabunshikov}
+\bibitem{1980bu_Turalysov_YakindugenosHabitat}
 \selectlanguageifdefined{russian}
-\BibEmph{Табунщиков~Юрий~Андреевич,
-  Бродач~М.~М., Шилкин~Н.~В.}
-  Энергоэффективные здания. ---
-\newblock М.: АВОК-ПРЕСС, 2003. ---
-\newblock 200~{с.}
+\BibEmph{Туралысов~К.~Г.} Основы организации
+  жилища для коренного сельского населения
+  Якутии : специальность 18.00.02 : диссертация
+  на соискание ученой степени кандидата
+  архитектуры. ---
+\newblock Ленинград, 1980.
 
 \bibitem{1996up_Turalysov_BiospherRasseleniye}
 \selectlanguageifdefined{russian}

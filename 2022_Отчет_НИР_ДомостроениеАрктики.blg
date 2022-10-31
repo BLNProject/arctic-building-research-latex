@@ -4,6 +4,7 @@ The top-level auxiliary file: 2022_Отчет_НИР_ДомостроениеАрктики.aux
 A level-1 auxiliary file: macros.inc.aux
 A level-1 auxiliary file: 00-title.aux
 A level-1 auxiliary file: ./st1/ch03/analysys_energyefficent_building.aux
+A level-1 auxiliary file: ./st1/ch03/analysys_indexp.aux
 A level-1 auxiliary file: 81-biblio.aux
 The style file: ./BibTeX-Styles/utf8gost71s.bst
 Database file #1: ./bibliography/2022/common_laws.bib
@@ -40,37 +41,37 @@ Database file #7: ./bibliography/2022/research_arcticbuildtech_urbanPlanningText
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 You've used 15 entries,
             3036 wiz_defined-function locations,
-            768 strings with 11091 characters,
-and the built_in function-call counts, 3178 in all, are:
-= -- 391
-> -- 54
+            766 strings with 11458 characters,
+and the built_in function-call counts, 3063 in all, are:
+= -- 371
+> -- 42
 < -- 7
-+ -- 27
-- -- 12
-* -- 141
-:= -- 448
-add.period$ -- 38
++ -- 23
+- -- 8
+* -- 129
+:= -- 433
+add.period$ -- 37
 call.type$ -- 15
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 15
 duplicate$ -- 157
 empty$ -- 349
-format.name$ -- 12
-if$ -- 781
+format.name$ -- 8
+if$ -- 753
 int.to.chr$ -- 0
 int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 77
+newline$ -- 76
 num.names$ -- 18
-pop$ -- 113
+pop$ -- 110
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 45
 quote$ -- 0
-skip$ -- 81
+skip$ -- 79
 stack$ -- 0
 substring$ -- 119
-swap$ -- 63
+swap$ -- 60
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
@@ -78,5 +79,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 8
 width$ -- 17
-write$ -- 172
+write$ -- 168
 (There were 12 warnings)

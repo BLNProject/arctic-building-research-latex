@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  29 OCT 2022 02:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  1 NOV 2022 05:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1739,11 +1739,40 @@ Package newfloat Info: New float `eqndescNoIndent' with options ` placement={!ht
 \newfloat@ftype=\count380
 Package newfloat Info: float type `eqndescNoIndent'=8 on input line 71.
 Package tocbasic Info: setting babel extension for `loeqndescNoIndent' on input line 71.
-) (./abr_glossary_abbrev.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count381
+\rotFPtop=\skip97
+\rotFPbot=\skip98
+\rot@float@box=\box76
+\rot@mess@toks=\toks60
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+\adjbox@Width=\dimen306
+\adjbox@Height=\dimen307
+\adjbox@Depth=\dimen308
+\adjbox@Totalheight=\dimen309
+\adjbox@pwidth=\dimen310
+\adjbox@pheight=\dimen311
+\adjbox@pdepth=\dimen312
+\adjbox@ptotalheight=\dimen313
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count382
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box77
+\sift@deathcycles=\count383
+\@vwid@loff=\dimen314
+\@vwid@roff=\dimen315
+))) (./abr_glossary_abbrev.tex) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count381
-\l__pdf_internal_box=\box76
-) (./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux (./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./81-biblio.aux))
+\l__color_backend_stack_int=\count384
+\l__pdf_internal_box=\box78
+) (./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux
+(./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./st1/ch03/analysys_indexp.aux) (./81-biblio.aux))
 \openout1 = `2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -1779,6 +1808,7 @@ Package caption Info: longtable package is loaded.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
+Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1840,23 +1870,24 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count382
-\scratchdimen=\dimen306
-\scratchbox=\box77
-\nofMPsegments=\count383
-\nofMParguments=\count384
-\everyMPshowfont=\toks60
-\MPscratchCnt=\count385
-\MPscratchDim=\dimen307
-\MPnumerator=\count386
-\makeMPintoPDFobject=\count387
-\everyMPtoPDFconversion=\toks61
+\scratchcounter=\count385
+\scratchdimen=\dimen316
+\scratchbox=\box79
+\nofMPsegments=\count386
+\nofMParguments=\count387
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count388
+\MPscratchDim=\dimen317
+\MPnumerator=\count389
+\makeMPintoPDFobject=\count390
+\everyMPtoPDFconversion=\toks62
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package newfloat Info: `rotating' package detected.
 \openout2 = `macros.inc.aux'.
 
  (./macros.inc.tex)
@@ -1903,152 +1934,647 @@ Using TeX to sort glossary entries---this may take a while
 
  (./st1/ch03/analysys_energyefficent_building.tex
  1.
-(./st1/ch03/analysys_ee_russia.tex
+(./st1/ch03/analysys_ee_common.tex [5
+
+
+] [6]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+ (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (105.5623pt too wide) in paragraph at lines 56--56
+[]|[]| 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 52--59
+[] [] [] [] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 59--61
+[] [] [] [] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 61--63
+[] [] [] [] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 63--64
+[] [] [] [] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 64--69
+[] [] [] [] 
+ []
+
+[7]
+
+LaTeX Warning: Reference `tab:pethod_gsop_calcvalues' on page 8 undefined on input line 114.
+
+
+LaTeX Warning: Reference `tab:pethod_gsop_calcvalues' on page 8 undefined on input line 117.
+
+[8]
+Underfull \hbox (badness 3209) in paragraph at lines 126--127
+[]\T2A/cmr/m/n/12 (+20) градусо-сутки ото^^?пи^^?тель^^?но^^?го пе^^?ри^^?о^^?да ГСОП ва^^?рьи^^?ру^^?ет^^?ся от 10906 до
+ []
+
+[9] [10] (./spreadsheets/tab_method_gsop_calcvalues.tex [11]
+Underfull \hbox (badness 5681) in paragraph at lines 67--67
+[]|\T2A/cmr/m/n/12 (+20) Улусный (рай^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\T2A/cmr/m/n/12 (+20) Абсолютно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T2A/cmr/m/n/12 (+20) ми^^?ни^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T2A/cmr/m/n/12 (+20) маль^^?ная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Overfull \hbox (5.17838pt too wide) in paragraph at lines 69--69
+[]|\T2A/cmr/m/n/12 (-20) Температура
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) воз^^?ду^^?ха
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) наи^^?бо^^?лее
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) хо^^?лод^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) пя^^?ти^^?днев^^?
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) ки, \TS1/cmr/m/n/12 (+20) °\T2A/cmr/m/n/12 (+20) С, с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T2A/cmr/m/n/12 (+20) обес^^?пе^^?чен^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) тельность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) сут, пе^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) ри^^?о^^?да со
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) сред^^?ней
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) су^^?точ^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T2A/cmr/m/n/12 (+20) Cредняя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 71--71
+\T2A/cmr/m/n/12 (+20) со сред^^?ней
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T2A/cmr/m/n/12 (+20) су^^?точ^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\T2A/cmr/m/n/12 (-1) Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\T2A/cmr/m/n/12 (+20) ябрь-^^?март,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T2A/cmr/m/n/12 (+20) ющее на^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T2A/cmr/m/n/12 (+20) прав^^?ле^^?ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T2A/cmr/m/n/12 (+20) вет^^?ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T2A/cmr/m/n/12 (+20) де^^?кабрь-^^?
+ []
+
+
+Overfull \hbox (0.71034pt too wide) in paragraph at lines 74--75
+[]|\T2A/cmr/m/n/12 (-20) Максималь- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T2A/cmr/m/n/12 (+20) ро^^?стей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T2A/cmr/m/n/12 (+20) вет^^?ра по
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 74--75
+\T2A/cmr/m/n/12 (+20) рум^^?бам за
+ []
+
+
+Overfull \hbox (30.50574pt too wide) in alignment at lines 61--76
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 83--83
+[]|\T2A/cmr/m/n/12 (+20) Улусный (рай^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\T2A/cmr/m/n/12 (+20) Абсолютно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\T2A/cmr/m/n/12 (+20) ми^^?ни^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\T2A/cmr/m/n/12 (+20) маль^^?ная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Overfull \hbox (5.17838pt too wide) in paragraph at lines 85--85
+[]|\T2A/cmr/m/n/12 (-20) Температура
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) воз^^?ду^^?ха
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) наи^^?бо^^?лее
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) хо^^?лод^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) пя^^?ти^^?днев^^?
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) ки, \TS1/cmr/m/n/12 (+20) °\T2A/cmr/m/n/12 (+20) С, с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T2A/cmr/m/n/12 (+20) обес^^?пе^^?чен^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) тельность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) сут, пе^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) ри^^?о^^?да со
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) сред^^?ней
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) су^^?точ^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\T2A/cmr/m/n/12 (+20) Cредняя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 87--87
+\T2A/cmr/m/n/12 (+20) со сред^^?ней
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T2A/cmr/m/n/12 (+20) су^^?точ^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T2A/cmr/m/n/12 (+20) тем^^?пе^^?ра^^?ту^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T2A/cmr/m/n/12 (-1) Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\T2A/cmr/m/n/12 (+20) ябрь-^^?март,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T2A/cmr/m/n/12 (+20) ющее на^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T2A/cmr/m/n/12 (+20) прав^^?ле^^?ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T2A/cmr/m/n/12 (+20) вет^^?ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T2A/cmr/m/n/12 (+20) де^^?кабрь-^^?
+ []
+
+
+Overfull \hbox (0.71034pt too wide) in paragraph at lines 90--91
+[]|\T2A/cmr/m/n/12 (-20) Максималь- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/12 (+20) ро^^?стей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/12 (+20) вет^^?ра по
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 90--91
+\T2A/cmr/m/n/12 (+20) рум^^?бам за
+ []
+
+
+Overfull \hbox (30.50574pt too wide) in alignment at lines 76--92
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (30.50574pt too wide) in alignment at lines 92--94
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (30.50574pt too wide) in alignment at lines 94--95
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]|[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\T2A/cmr/m/n/12 (+20) г. Средне-^^?
+ []
+
+
+Overfull \hbox (30.50574pt too wide) in alignment at lines 95--111
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+[12
+
+] [13
+
+]) (./spreadsheets/tab_method_gsop_thermalresistvalues.tex
+Overfull \hbox (42.67914pt too wide) in paragraph at lines 11--11
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 19--19
+[]|\T2A/cmr/m/n/12 (+20) Перекрытий чер^^?
+ []
+
+
+Overfull \hbox (37.00381pt too wide) in alignment at lines 7--23
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (37.00381pt too wide) in alignment at lines 23--26
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (37.00381pt too wide) in alignment at lines 26--28
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (37.00381pt too wide) in alignment at lines 28--29
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (37.00381pt too wide) in alignment at lines 29--46
+[] [] [] [] [] [] [] [] [] [] 
+ []
+
+[14
+
+
+]) [15
+
+]) (./st1/ch03/analysys_coloristic.tex [16] [17]
+<assets/figures/st1_colouristic_yakutsk_01.png, id=283, 302.63063pt x 181.42781pt>
+File: assets/figures/st1_colouristic_yakutsk_01.png Graphic file (type png)
+<use assets/figures/st1_colouristic_yakutsk_01.png>
+Package pdftex.def Info: assets/figures/st1_colouristic_yakutsk_01.png  used on input line 50.
+(pdftex.def)             Requested size: 328.90958pt x 197.17674pt.
+
+Overfull \hbox (131.73283pt too wide) in paragraph at lines 50--50
+ [] 
+ []
+
+<assets/figures/st1_colouristic_yakutsk_02.png, id=284, 135.50626pt x 181.42781pt>
+File: assets/figures/st1_colouristic_yakutsk_02.png Graphic file (type png)
+<use assets/figures/st1_colouristic_yakutsk_02.png>
+Package pdftex.def Info: assets/figures/st1_colouristic_yakutsk_02.png  used on input line 54.
+(pdftex.def)             Requested size: 147.27293pt x 197.17674pt.
+<assets/figures/st1_colouristic_murom_02.png, id=285, 142.28156pt x 166.37157pt>
+File: assets/figures/st1_colouristic_murom_02.png Graphic file (type png)
+<use assets/figures/st1_colouristic_murom_02.png>
+Package pdftex.def Info: assets/figures/st1_colouristic_murom_02.png  used on input line 62.
+(pdftex.def)             Requested size: 120.45575pt x 140.84258pt.
+<assets/figures/st1_colouristic_murom_03.png, id=286, 158.84344pt x 166.37157pt>
+File: assets/figures/st1_colouristic_murom_03.png Graphic file (type png)
+<use assets/figures/st1_colouristic_murom_03.png>
+Package pdftex.def Info: assets/figures/st1_colouristic_murom_03.png  used on input line 66.
+(pdftex.def)             Requested size: 134.47705pt x 140.84258pt.
+<assets/figures/st1_colouristic_murom_01.png, id=287, 143.03438pt x 167.87718pt>
+File: assets/figures/st1_colouristic_murom_01.png Graphic file (type png)
+<use assets/figures/st1_colouristic_murom_01.png>
+Package pdftex.def Info: assets/figures/st1_colouristic_murom_01.png  used on input line 70.
+(pdftex.def)             Requested size: 119.99963pt x 140.84258pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./st1/ch03/analysys_ee_russia.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
  |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-[5
-
-
-] [6] [7] [8]
-<assets/figures/st1ch03_ruexp_001.png, id=197, 722.7pt x 459.21562pt>
+[18] [19 <./assets/figures/st1_colouristic_yakutsk_01.png> <./assets/figures/st1_colouristic_yakutsk_02.png> <./assets/figures/st1_colouristic_murom_02.png> <./assets/figures/st1_colouristic_murom_03.png> <./assets/figures/st1_colouristic_murom_01.png>] [20] [21] [22]
+<assets/figures/st1ch03_ruexp_001.png, id=327, 722.7pt x 459.21562pt>
 File: assets/figures/st1ch03_ruexp_001.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_001.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_001.png  used on input line 83.
 (pdftex.def)             Requested size: 469.47049pt x 298.31143pt.
-<assets/figures/st1ch03_ruexp_003.png, id=204, 666.23906pt x 143.78719pt>
+<assets/figures/st1ch03_ruexp_003.png, id=334, 666.23906pt x 143.78719pt>
 File: assets/figures/st1ch03_ruexp_003.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_003.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_003.png  used on input line 96.
 (pdftex.def)             Requested size: 469.47049pt x 101.3217pt.
-<assets/figures/st1ch03_ruexp_004.png, id=206, 613.54219pt x 423.08063pt>
+<assets/figures/st1ch03_ruexp_004.png, id=335, 613.54219pt x 423.08063pt>
 File: assets/figures/st1ch03_ruexp_004.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_004.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_004.png  used on input line 105.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_004.png  used on input line 104.
 (pdftex.def)             Requested size: 469.47049pt x 323.7331pt.
-<assets/figures/st1ch03_ruexp_005.png, id=207, 598.48593pt x 412.54124pt>
+<assets/figures/st1ch03_ruexp_005.png, id=336, 598.48593pt x 412.54124pt>
 File: assets/figures/st1ch03_ruexp_005.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_005.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_005.png  used on input line 114.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_005.png  used on input line 113.
 (pdftex.def)             Requested size: 469.47049pt x 323.61269pt.
-<assets/figures/st1ch03_ruexp_006.png, id=208, 722.7pt x 365.86688pt>
+<assets/figures/st1ch03_ruexp_006.png, id=337, 722.7pt x 365.86688pt>
 File: assets/figures/st1ch03_ruexp_006.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_006.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_006.png  used on input line 122.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_006.png  used on input line 121.
 (pdftex.def)             Requested size: 469.47049pt x 237.67108pt.
-<assets/figures/st1ch03_ruexp_007.png, id=209, 350.05782pt x 241.65282pt>
+<assets/figures/st1ch03_ruexp_007.png, id=338, 350.05782pt x 241.65282pt>
 File: assets/figures/st1ch03_ruexp_007.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_007.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_007.png  used on input line 130.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_007.png  used on input line 129.
 (pdftex.def)             Requested size: 469.47049pt x 324.10806pt.
-<assets/figures/st1ch03_ruexp_002.png, id=210, 1533.47906pt x 2002.48125pt>
+<assets/figures/st1ch03_ruexp_002.png, id=339, 1533.47906pt x 2002.48125pt>
 File: assets/figures/st1ch03_ruexp_002.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_002.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_002.png  used on input line 138.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_002.png  used on input line 137.
 (pdftex.def)             Requested size: 469.47049pt x 613.03227pt.
-<assets/figures/st1ch03_ruexp_008.png, id=211, 913.16156pt x 420.82219pt>
+<assets/figures/st1ch03_ruexp_008.png, id=340, 913.16156pt x 420.82219pt>
 File: assets/figures/st1ch03_ruexp_008.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_008.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_008.png  used on input line 146.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_008.png  used on input line 145.
 (pdftex.def)             Requested size: 469.47049pt x 216.3502pt.
-<assets/figures/st1ch03_ruexp_009.png, id=212, 911.65594pt x 448.67625pt>
+<assets/figures/st1ch03_ruexp_009.png, id=341, 911.65594pt x 448.67625pt>
 File: assets/figures/st1ch03_ruexp_009.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_009.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_009.png  used on input line 154.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_009.png  used on input line 153.
 (pdftex.def)             Requested size: 469.47049pt x 231.05373pt.
-<assets/figures/st1ch03_ruexp_010.png, id=213, 700.11563pt x 468.24937pt>
+<assets/figures/st1ch03_ruexp_010.png, id=342, 700.11563pt x 468.24937pt>
 File: assets/figures/st1ch03_ruexp_010.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_010.png>
-Package pdftex.def Info: assets/figures/st1ch03_ruexp_010.png  used on input line 162.
+Package pdftex.def Info: assets/figures/st1ch03_ruexp_010.png  used on input line 161.
 (pdftex.def)             Requested size: 469.47049pt x 313.99695pt.
 ) (./st1/ch03/analysys_ee_usa.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
  |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-[9
+[23
 
- <./assets/figures/st1ch03_ruexp_001.png> <./assets/figures/st1ch03_ruexp_003.png>] [10 <./assets/figures/st1ch03_ruexp_004.png>] [11 <./assets/figures/st1ch03_ruexp_005.png> <./assets/figures/st1ch03_ruexp_006.png>] [12 <./assets/figures/st1ch03_ruexp_007.png>] [13 <./assets/figures/st1ch03_ruexp_002.png>] [14 <./assets/figures/st1ch03_ruexp_008.png> <./assets/figures/st1ch03_ruexp_009.png>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
- (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
- (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)) (./st1/ch03/analysys_ee_canada.tex
+ <./assets/figures/st1ch03_ruexp_001.png> <./assets/figures/st1ch03_ruexp_003.png>] [24 <./assets/figures/st1ch03_ruexp_004.png>] [25 <./assets/figures/st1ch03_ruexp_005.png> <./assets/figures/st1ch03_ruexp_006.png>] [26 <./assets/figures/st1ch03_ruexp_007.png>] [27 <./assets/figures/st1ch03_ruexp_002.png>] [28 <./assets/figures/st1ch03_ruexp_008.png> <./assets/figures/st1ch03_ruexp_009.png>]) (./st1/ch03/analysys_ee_canada.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
  |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-[15]
-<assets/figures/ch01_s10_sci_AFN01_calendar.png, id=276, 1003.75pt x 853.1875pt>
+[29]
+<assets/figures/ch01_s10_sci_AFN01_calendar.png, id=401, 1003.75pt x 853.1875pt>
 File: assets/figures/ch01_s10_sci_AFN01_calendar.png Graphic file (type png)
 <use assets/figures/ch01_s10_sci_AFN01_calendar.png>
 Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_calendar.png  used on input line 33.
 (pdftex.def)             Requested size: 469.47049pt x 399.05841pt.
-<assets/figures/ch01_s10_sci_AFN01_nodeSection.png, id=277, 1003.75pt x 550.055pt>
+<assets/figures/ch01_s10_sci_AFN01_nodeSection.png, id=402, 1003.75pt x 550.055pt>
 File: assets/figures/ch01_s10_sci_AFN01_nodeSection.png Graphic file (type png)
 <use assets/figures/ch01_s10_sci_AFN01_nodeSection.png>
 Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_nodeSection.png  used on input line 47.
 (pdftex.def)             Requested size: 469.47049pt x 257.2753pt.
- [16]) (./st1/ch03/analysys_ee_norway.tex
+) (./st1/ch03/analysys_ee_norway.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
  |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-) (./st1/ch03/analysys_ee_finland.tex
+[30]) (./st1/ch03/analysys_ee_finland.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
  |[]\T2A/cmr/bx/n/12 (+20) Оценка опы^^?та и тре^^?бо^^?ва^^?ний в про^^?ек^^?ти^^?ро^^?ва^^?нии
  []
 
-[17] [18] [19]
-<assets/figures/st1ch03_finexp_001.png, id=312, 376.40625pt x 252.945pt>
+[31] [32] [33]
+<assets/figures/st1ch03_finexp_001.png, id=434, 376.40625pt x 252.945pt>
 File: assets/figures/st1ch03_finexp_001.png Graphic file (type png)
 <use assets/figures/st1ch03_finexp_001.png>
 Package pdftex.def Info: assets/figures/st1ch03_finexp_001.png  used on input line 78.
 (pdftex.def)             Requested size: 469.47049pt x 315.5089pt.
 )
-Overfull \hbox (21.31061pt too wide) in alignment at lines 34--39
+Overfull \hbox (21.31061pt too wide) in alignment at lines 38--43
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (21.31061pt too wide) in alignment at lines 39--41
+Overfull \hbox (21.31061pt too wide) in alignment at lines 43--45
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (21.31061pt too wide) in alignment at lines 41--43
+Overfull \hbox (21.31061pt too wide) in alignment at lines 45--47
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (21.31061pt too wide) in alignment at lines 43--44
+Overfull \hbox (21.31061pt too wide) in alignment at lines 47--48
 [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T2A/cmr/m/n/12 (+20) Крупно- па^^?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []|\T2A/cmr/m/n/12 (+20) Крупно- па^^?
  []
 
 
-Overfull \hbox (21.31061pt too wide) in alignment at lines 44--55
+Overfull \hbox (21.31061pt too wide) in alignment at lines 48--59
 [] [] [] [] [] 
  []
 
-[20]) [21] [22 <./assets/figures/st1ch03_ruexp_010.png>] [23 <./assets/figures/ch01_s10_sci_AFN01_calendar.png (PNG copy)>] [24 <./assets/figures/ch01_s10_sci_AFN01_nodeSection.png (PNG copy)> <./assets/figures/st1ch03_finexp_001.png>]
+[34] [35]) [36] [37 <./assets/figures/st1ch03_ruexp_010.png>] [38 <./assets/figures/ch01_s10_sci_AFN01_calendar.png (PNG copy)>] [39 <./assets/figures/ch01_s10_sci_AFN01_nodeSection.png (PNG copy)> <./assets/figures/st1ch03_finexp_001.png>]
+\openout2 = `./st1/ch03/analysys_indexp.aux'.
+
+ (./st1/ch03/analysys_indexp.tex
+ 2.
+(./st1/ch03/analysys_indexp_overview.tex [40
+
+
+
+
+])) [41]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.bbl
@@ -2070,30 +2596,33 @@ Overfull \hbox (200.19232pt too wide) in paragraph at lines 18--21
 \T2A/cmtt/m/n/12 minister-[]ohisalo-[]accelerating-[]the-[]green-[]transition-[]will-[]also-[]strengthen-[]finland-[]s-[]comprehensive-[]security$[][]\T2A/cmr/m/n/12 (-20) . 
  []
 
-[25
+[42
 
 
 
 
-])) [26] 
+])) [43] 
 AED: lastpage setting LastPage
-(./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux (./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./81-biblio.aux))
+(./2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.aux (./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./st1/ch03/analysys_indexp.aux) (./81-biblio.aux))
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.out' has not changed.
-(rerunfilecheck)             Checksum: F224B12E260C329EB3CA04E136D55952;7023.
+(rerunfilecheck)             Checksum: 80E1299590A642B9E9C411B97D47807B;10028.
  ) 
 Here is how much of TeX's memory you used:
- 39171 strings out of 477678
- 760116 string characters out of 5824984
- 1197481 words of memory out of 5000000
- 56908 multiletter control sequences out of 15000+600000
- 485956 words of font info for 133 fonts, out of 8000000 for 9000
+ 40160 strings out of 477678
+ 780271 string characters out of 5824984
+ 1234195 words of memory out of 5000000
+ 57770 multiletter control sequences out of 15000+600000
+ 489095 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,9n,134p,1244b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on 2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.pdf (26 pages, 17486126 bytes).
+ 140i,10n,134p,2164b,688s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on 2022_РћС‚С‡РµС‚_РќРР _Р”РѕРјРѕСЃС‚СЂРѕРµРЅРёРµРђСЂРєС‚РёРєРё.pdf (43 pages, 18163131 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
- 93 named destinations out of 1000 (max. 500000)
- 25426 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 585 PDF objects out of 1000 (max. 8388607)
+ 479 compressed objects within 5 object streams
+ 126 named destinations out of 1000 (max. 500000)
+ 33675 words of extra memory for PDF output out of 35830 (max. 10000000)
 
