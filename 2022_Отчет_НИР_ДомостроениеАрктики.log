@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  1 NOV 2022 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  2 NOV 2022 05:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1934,23 +1934,23 @@ Using TeX to sort glossary entries---this may take a while
 
  (./st1/ch03/analysys_energyefficent_building.tex
  1.
-(./st1/ch03/analysys_ee_common.tex<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+(./st1/ch03/analysys_ee_common.tex [5
+
+
+]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [5
-
-
-] [6]) (./st1/ch03/analysys_coloristic.tex [7] [8]
-<assets/figures/st1_colouristic_yakutsk_01.png, id=209, 302.63063pt x 181.42781pt>
+) [6]) (./st1/ch03/analysys_coloristic.tex [7] [8]
+<assets/figures/st1_colouristic_yakutsk_01.png, id=236, 302.63063pt x 181.42781pt>
 File: assets/figures/st1_colouristic_yakutsk_01.png Graphic file (type png)
 <use assets/figures/st1_colouristic_yakutsk_01.png>
 Package pdftex.def Info: assets/figures/st1_colouristic_yakutsk_01.png  used on input line 50.
@@ -1960,22 +1960,22 @@ Overfull \hbox (131.73283pt too wide) in paragraph at lines 50--50
  [] 
  []
 
-<assets/figures/st1_colouristic_yakutsk_02.png, id=210, 135.50626pt x 181.42781pt>
+<assets/figures/st1_colouristic_yakutsk_02.png, id=237, 135.50626pt x 181.42781pt>
 File: assets/figures/st1_colouristic_yakutsk_02.png Graphic file (type png)
 <use assets/figures/st1_colouristic_yakutsk_02.png>
 Package pdftex.def Info: assets/figures/st1_colouristic_yakutsk_02.png  used on input line 54.
 (pdftex.def)             Requested size: 147.27293pt x 197.17674pt.
-<assets/figures/st1_colouristic_murom_02.png, id=211, 142.28156pt x 166.37157pt>
+<assets/figures/st1_colouristic_murom_02.png, id=238, 142.28156pt x 166.37157pt>
 File: assets/figures/st1_colouristic_murom_02.png Graphic file (type png)
 <use assets/figures/st1_colouristic_murom_02.png>
 Package pdftex.def Info: assets/figures/st1_colouristic_murom_02.png  used on input line 62.
 (pdftex.def)             Requested size: 120.45575pt x 140.84258pt.
-<assets/figures/st1_colouristic_murom_03.png, id=212, 158.84344pt x 166.37157pt>
+<assets/figures/st1_colouristic_murom_03.png, id=239, 158.84344pt x 166.37157pt>
 File: assets/figures/st1_colouristic_murom_03.png Graphic file (type png)
 <use assets/figures/st1_colouristic_murom_03.png>
 Package pdftex.def Info: assets/figures/st1_colouristic_murom_03.png  used on input line 66.
 (pdftex.def)             Requested size: 134.47705pt x 140.84258pt.
-<assets/figures/st1_colouristic_murom_01.png, id=213, 143.03438pt x 167.87718pt>
+<assets/figures/st1_colouristic_murom_01.png, id=240, 143.03438pt x 167.87718pt>
 File: assets/figures/st1_colouristic_murom_01.png Graphic file (type png)
 <use assets/figures/st1_colouristic_murom_01.png>
 Package pdftex.def Info: assets/figures/st1_colouristic_murom_01.png  used on input line 70.
@@ -2019,52 +2019,52 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 89--94
  []
 
 [12] [13] [14] [15]
-<assets/figures/st1ch03_ruexp_001.png, id=284, 722.7pt x 459.21562pt>
+<assets/figures/st1ch03_ruexp_001.png, id=311, 722.7pt x 459.21562pt>
 File: assets/figures/st1ch03_ruexp_001.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_001.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_001.png  used on input line 184.
 (pdftex.def)             Requested size: 469.47049pt x 298.31143pt.
-<assets/figures/st1ch03_ruexp_003.png, id=291, 666.23906pt x 143.78719pt>
+<assets/figures/st1ch03_ruexp_003.png, id=318, 666.23906pt x 143.78719pt>
 File: assets/figures/st1ch03_ruexp_003.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_003.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_003.png  used on input line 197.
 (pdftex.def)             Requested size: 469.47049pt x 101.3217pt.
-<assets/figures/st1ch03_ruexp_004.png, id=292, 613.54219pt x 423.08063pt>
+<assets/figures/st1ch03_ruexp_004.png, id=319, 613.54219pt x 423.08063pt>
 File: assets/figures/st1ch03_ruexp_004.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_004.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_004.png  used on input line 205.
 (pdftex.def)             Requested size: 469.47049pt x 323.7331pt.
-<assets/figures/st1ch03_ruexp_005.png, id=293, 598.48593pt x 412.54124pt>
+<assets/figures/st1ch03_ruexp_005.png, id=320, 598.48593pt x 412.54124pt>
 File: assets/figures/st1ch03_ruexp_005.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_005.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_005.png  used on input line 214.
 (pdftex.def)             Requested size: 469.47049pt x 323.61269pt.
-<assets/figures/st1ch03_ruexp_006.png, id=294, 722.7pt x 365.86688pt>
+<assets/figures/st1ch03_ruexp_006.png, id=321, 722.7pt x 365.86688pt>
 File: assets/figures/st1ch03_ruexp_006.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_006.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_006.png  used on input line 222.
 (pdftex.def)             Requested size: 469.47049pt x 237.67108pt.
-<assets/figures/st1ch03_ruexp_007.png, id=295, 350.05782pt x 241.65282pt>
+<assets/figures/st1ch03_ruexp_007.png, id=322, 350.05782pt x 241.65282pt>
 File: assets/figures/st1ch03_ruexp_007.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_007.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_007.png  used on input line 230.
 (pdftex.def)             Requested size: 469.47049pt x 324.10806pt.
-<assets/figures/st1ch03_ruexp_002.png, id=296, 1533.47906pt x 2002.48125pt>
+<assets/figures/st1ch03_ruexp_002.png, id=323, 1533.47906pt x 2002.48125pt>
 File: assets/figures/st1ch03_ruexp_002.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_002.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_002.png  used on input line 238.
 (pdftex.def)             Requested size: 469.47049pt x 613.03227pt.
-<assets/figures/st1ch03_ruexp_008.png, id=297, 913.16156pt x 420.82219pt>
+<assets/figures/st1ch03_ruexp_008.png, id=324, 913.16156pt x 420.82219pt>
 File: assets/figures/st1ch03_ruexp_008.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_008.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_008.png  used on input line 246.
 (pdftex.def)             Requested size: 469.47049pt x 216.3502pt.
-<assets/figures/st1ch03_ruexp_009.png, id=298, 911.65594pt x 448.67625pt>
+<assets/figures/st1ch03_ruexp_009.png, id=325, 911.65594pt x 448.67625pt>
 File: assets/figures/st1ch03_ruexp_009.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_009.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_009.png  used on input line 254.
 (pdftex.def)             Requested size: 469.47049pt x 231.05373pt.
-<assets/figures/st1ch03_ruexp_010.png, id=299, 700.11563pt x 468.24937pt>
+<assets/figures/st1ch03_ruexp_010.png, id=326, 700.11563pt x 468.24937pt>
 File: assets/figures/st1ch03_ruexp_010.png Graphic file (type png)
 <use assets/figures/st1ch03_ruexp_010.png>
 Package pdftex.def Info: assets/figures/st1ch03_ruexp_010.png  used on input line 262.
@@ -2082,12 +2082,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
  []
 
 [22]
-<assets/figures/ch01_s10_sci_AFN01_calendar.png, id=357, 1003.75pt x 853.1875pt>
+<assets/figures/ch01_s10_sci_AFN01_calendar.png, id=384, 1003.75pt x 853.1875pt>
 File: assets/figures/ch01_s10_sci_AFN01_calendar.png Graphic file (type png)
 <use assets/figures/ch01_s10_sci_AFN01_calendar.png>
 Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_calendar.png  used on input line 33.
 (pdftex.def)             Requested size: 469.47049pt x 399.05841pt.
-<assets/figures/ch01_s10_sci_AFN01_nodeSection.png, id=358, 1003.75pt x 550.055pt>
+<assets/figures/ch01_s10_sci_AFN01_nodeSection.png, id=385, 1003.75pt x 550.055pt>
 File: assets/figures/ch01_s10_sci_AFN01_nodeSection.png Graphic file (type png)
 <use assets/figures/ch01_s10_sci_AFN01_nodeSection.png>
 Package pdftex.def Info: assets/figures/ch01_s10_sci_AFN01_nodeSection.png  used on input line 47.
@@ -2103,7 +2103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
  []
 
 [24] [25] [26]
-<assets/figures/st1ch03_finexp_001.png, id=390, 376.40625pt x 252.945pt>
+<assets/figures/st1ch03_finexp_001.png, id=417, 376.40625pt x 252.945pt>
 File: assets/figures/st1ch03_finexp_001.png Graphic file (type png)
 <use assets/figures/st1ch03_finexp_001.png>
 Package pdftex.def Info: assets/figures/st1ch03_finexp_001.png  used on input line 78.
@@ -2578,7 +2578,7 @@ Overfull \hbox (37.00381pt too wide) in alignment at lines 29--46
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./2022_Отчет_НИР_ДомостроениеАрктики.bbl
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 14.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 18.
  (p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
@@ -2587,13 +2587,18 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1077) in paragraph at lines 18--21
+Underfull \hbox (badness 1077) in paragraph at lines 66--69
 []\T2A/cmr/m/n/12 (+20) Minister Ohisa^^?lo: Ac^^?cel^^?er^^?at^^?ing the green tran^^?si^^?tion will al^^?so strength^^?en
  []
 
 
-Overfull \hbox (200.19232pt too wide) in paragraph at lines 18--21
+Overfull \hbox (200.19232pt too wide) in paragraph at lines 66--69
 \T2A/cmtt/m/n/12 minister-[]ohisalo-[]accelerating-[]the-[]green-[]transition-[]will-[]also-[]strengthen-[]finland-[]s-[]comprehensive-[]security$[][]\T2A/cmr/m/n/12 (-20) . 
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 84--91
+[]\T2A/cmr/m/n/12 (+20) Time-lapse ther^^?mog^^?ra^^?phy for build^^?ing de^^?fect de^^?tec^^?tion / Matthew Fox,
  []
 
 [42
@@ -2601,7 +2606,7 @@ Overfull \hbox (200.19232pt too wide) in paragraph at lines 18--21
 
 
 
-])) [43] 
+] [43])) [44] 
 AED: lastpage setting LastPage
 (./2022_Отчет_НИР_ДомостроениеАрктики.aux (./macros.inc.aux) (./00-title.aux) (./st1/ch03/analysys_energyefficent_building.aux) (./st1/ch03/analysys_indexp.aux) (./81-biblio.aux))
 
@@ -2611,18 +2616,18 @@ Package rerunfilecheck Info: File `2022_Отчет_НИР_Домостроени
 (rerunfilecheck)             Checksum: 1F9CCFA2291C42B6F2483DA15D44473E;10156.
  ) 
 Here is how much of TeX's memory you used:
- 40164 strings out of 477678
- 780317 string characters out of 5824984
- 1234888 words of memory out of 5000000
- 57771 multiletter control sequences out of 15000+600000
- 489182 words of font info for 160 fonts, out of 8000000 for 9000
+ 40212 strings out of 477678
+ 781289 string characters out of 5824984
+ 1234511 words of memory out of 5000000
+ 57787 multiletter control sequences out of 15000+600000
+ 490662 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,9n,134p,2164b,688s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (43 pages, 18164529 bytes).
+{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><p:/AppsFiles/OFFICE/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on 2022_Отчет_НИР_ДомостроениеАрктики.pdf (44 pages, 18201633 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
- 482 compressed objects within 5 object streams
- 127 named destinations out of 1000 (max. 500000)
- 33675 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 647 PDF objects out of 1000 (max. 8388607)
+ 538 compressed objects within 6 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 35723 words of extra memory for PDF output out of 35830 (max. 10000000)
 

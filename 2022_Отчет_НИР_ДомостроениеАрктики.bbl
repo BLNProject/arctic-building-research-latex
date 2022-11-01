@@ -7,17 +7,94 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{2017buee_ADAMCZYK_421}
+\selectlanguageifdefined{english}
+\BibEmph{Adamczyk~Janusz, Dylewski~Robert}. The impact of thermal insulation
+  investments on sustainability in the construction sector~//
+  \BibEmph{Renewable and Sustainable Energy Reviews}. ---
+\newblock 2017. ---
+\newblock Vol.~80. ---
+\newblock Pp.~421--429. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S1364032117308031}.
+
+\bibitem{2020buee_Muhammad_USWastemanagement}
+\selectlanguageifdefined{english}
+\BibEmph{Aslam~Muhammad~Shahzad, Huang~Beijia, Cui~Lifeng}. Review of
+  construction and demolition waste management in China and USA~//
+  \BibEmph{Journal of Environmental Management}. ---
+\newblock 2020. ---
+\newblock Vol. 264, no. 264. ---
+\newblock P.~110445. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S0301479720303790}.
+
+\bibitem{2016bueemethod_FOX_317}
+\selectlanguageifdefined{english}
+\BibEmph{Fox~Matthew, Goodhew~Steve, {De Wilde}~Pieter}. Building defect
+  detection: External versus internal thermography~// \BibEmph{Building and
+  Environment}. ---
+\newblock 2016. ---
+\newblock Vol. 105. ---
+\newblock Pp.~317--331. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S0360132316302189}.
+
 \bibitem{2012_nomads_Canada_AFN}
 \selectlanguageifdefined{english}
 \BibEmph{{Lateral Office}}. ARCTIC FOOD NETWORK: Regional Food-gathering
   Cabins. ---
 \newblock 2012. \BibUrl{ http://lateraloffice.com/ARCTIC-FOOD-NETWORK-2011-12}.
 
+\bibitem{1979buee_mazria_passive}
+\selectlanguageifdefined{english}
+\BibEmph{Mazria~E.} The Passive Solar Energy Book: A Complete Guide to Passive
+  Solar Home, Greenhouse, and Building Design. AT microfiche reference library.
+  ---
+\newblock Rodale Press, 1979. ---
+\newblock P.~435. \BibUrl{ https://books.google.ru/books?id=zw1cbI5AxNQC}.
+
+\bibitem{2014buee_MEMON_870}
+\selectlanguageifdefined{english}
+\BibEmph{Memon~Shazim~Ali}. Phase change materials integrated in building
+  walls: A state of the art review~// \BibEmph{Renewable and Sustainable Energy
+  Reviews}. ---
+\newblock 2014. ---
+\newblock Vol.~31. ---
+\newblock Pp.~870--906. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S1364032113008563}.
+
 \bibitem{law_FIN_govMinEnvSecurity}
 \selectlanguageifdefined{english}
 Minister Ohisalo: Accelerating the green transition will also strengthen
   Finland's comprehensive security. Ministry of the Environment. \BibUrl{
   https://ym.fi/en/-/minister-ohisalo-accelerating-the-green-transition-will-also-strengthen-finland-s-comprehensive-security}.
+
+\bibitem{2017buee_MORCK_240}
+\selectlanguageifdefined{english}
+\BibEmph{Mørck~Ove~Christen}. Energy saving concept development for the
+  MORE-CONNECT pilot energy renovation of apartment blocks in Denmark~//
+  \BibEmph{Energy Procedia}. ---
+\newblock 2017. ---
+\newblock Vol. 140. ---
+\newblock Pp.~240--251. ---
+\newblock Beyond NZEB Buildings (AiCARR 50th International Congress, Matera
+  (I), 10-11 May 2017). \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S1876610217355509}.
+
+\bibitem{2015bueemethod_FOX_95}
+\selectlanguageifdefined{english}
+Time-lapse thermography for building defect detection~/ Matthew~Fox,
+  David~Coley, Steve~Goodhew, Pieter~{De Wilde}~// \BibEmph{Energy and
+  Buildings}. ---
+\newblock 2015. ---
+\newblock Vol.~92. ---
+\newblock Pp.~95--106. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S0378778815000274}.
+
+\bibitem{2008buee_wines_green}
+\selectlanguageifdefined{english}
+\BibEmph{Wines~J., Jodidio~P.} Green Architecture. Taschen's 25th anniversary
+  special editions. ---
+\newblock Taschen, 2008. ---
+\newblock P.~240. \BibUrl{ https://books.google.ru/books?id=3jK7QwAACAAJ}.
 
 \bibitem{law_RU_govAggregatorArcticStandart}
 \selectlanguageifdefined{russian}
@@ -46,12 +123,41 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
   информации». \BibUrl{
   http://www.pravo.gov.ru/proxy/ips/?docbody%5C&nd=102090643}.
 
+\bibitem{2020buee_Gushin_EnergysaveTrends}
+\selectlanguageifdefined{russian}
+\BibEmph{Гущин~С.~В., Семиненко~А.~С., Shen~C.}
+  Мировые тенденции развития
+  энергосберегающих технологий~//
+  \BibEmph{Вестник БГТУ им. В.Г. Шухова}. ---
+\newblock 2020. ---
+\newblock {№}~5. ---
+\newblock {С.}~32--43. \BibUrl{ https://vestnik_rus.bstu.ru/arhiv}.
+
 \bibitem{law_FIN_RulesCode_LanduseAndBuilding}
 \selectlanguageifdefined{english}
 Закон о землепользовании и строительстве =
   Maankäyttö- ja rakennuslaki. Доступ из справ.-правовой
   системы «FINLEX». \BibUrl{
   https://finlex.fi/fi/laki/ajantasa/1999/19990132#L4P28}.
+
+\bibitem{method_US_LEED}
+\selectlanguageifdefined{english}
+Лидерство в Энергетическом и Средовом
+  Проектировании = The Leadership in Energy \& Environmental
+  Design (LEED). Доступ из информационной системы
+  Совета по Зелёным Зданиям США. \BibUrl{
+  https://www.usgbc.org/resources/leed-v4-interior-design-and-construction-current-version}.
+
+\bibitem{2020buee_Sheyna_HabitatEurotechInsertion}
+\selectlanguageifdefined{russian}
+Лучший европейский опыт внедрения
+  энергосберегающих технологий в жилищном
+  фонде Российской Федерации~/ С.~Г.~Шеина,
+  Н.~П.~Умнякова, П.~В.~Федяева, Е.~Н.~Миненко~//
+  \BibEmph{Жилищное строительство}. ---
+\newblock 2020. ---
+\newblock {№}~6. ---
+\newblock {С.}~29--34.
 
 \bibitem{law_RU_fz_EnergyEff}
 \selectlanguageifdefined{russian}
@@ -108,6 +214,16 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
   Норвегии. \BibUrl{
   https://www.regjeringen.no/no/dokumenter/nou-2007-14/id584312/}.
 
+\bibitem{2010buee_Sormunen_Finland}
+\selectlanguageifdefined{russian}
+\BibEmph{Сормунен~П.} Энергоэффективность
+  зданий. Ситуация в Финдляндии~//
+  \BibEmph{Инженерно-строительный журнал}. ---
+\newblock 2010. ---
+\newblock {№} 1 (11). ---
+\newblock {С.}~7--8. \BibUrl{
+  https://engstroy.spbstu.ru/userfiles/files/2010/1(11)/maket11.pdf}.
+
 \bibitem{1980bu_Turalysov_YakindugenosHabitat}
 \selectlanguageifdefined{russian}
 \BibEmph{Туралысов~К.~Г.} Основы организации
@@ -129,5 +245,15 @@ Minister Ohisalo: Accelerating the green transition will also strengthen
 Финансовая Коорпорация Индивидуального
   Домостроения Аляски = Alaska Housing Finance Corporation.
   \BibUrl{ https://www.ahfc.us/efficiency}.
+
+\bibitem{2016buee_Sheyna_AltenergyWorldtrands}
+\selectlanguageifdefined{russian}
+\BibEmph{Шеина~С.~Г., Пирожникова~А.~П.} Тенденции
+  развития альтернативной энергетики в
+  странах мира и России~// \BibEmph{Инженерный
+  вестник Дона}. ---
+\newblock 2016. ---
+\newblock {№}~3. \BibUrl{
+  http://ivdon.ru/uploads/article/pdf/IVD_58_Sheina_Pirozhnikova.pdf_32b1ca3797.pdf}.
 
 \end{thebibliography}
