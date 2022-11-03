@@ -7,6 +7,14 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{UN_17Goals}
+\selectlanguageifdefined{english}
+17 Целей (устойчивого развития
+  человечества) = THE 17 GOALS. Доступ из
+  информационной системы Департамента по
+  экономическим и социальным вопросам ООН.
+  \BibUrl{ https://sdgs.un.org/goals#implementation}.
+
 \bibitem{2017buee_ADAMCZYK_421}
 \selectlanguageifdefined{english}
 \BibEmph{Adamczyk~Janusz, Dylewski~Robert}. The impact of thermal insulation

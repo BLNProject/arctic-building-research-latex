@@ -27,6 +27,8 @@ Warning--entry type for "law_NORW_RulesCode_Natureuse" isn't style-file defined
 Database file #2: ./bibliography/2022/common_energyEfficiency.bib
 Warning--entry type for "method_US_LEED" isn't style-file defined
 --line 99 of file ./bibliography/2022/common_energyEfficiency.bib
+Warning--entry type for "UN_17Goals" isn't style-file defined
+--line 139 of file ./bibliography/2022/common_energyEfficiency.bib
 Database file #3: ./bibliography/2022/institute_iti.bib
 Database file #4: ./bibliography/2022/institute_marchi.bib
 Database file #5: ./bibliography/2022/research_arcticbuildtech_sciAndResearches.bib
@@ -41,45 +43,45 @@ Warning--entry type for "law_FIN_govMinEnvSecurity" isn't style-file defined
 --line 63 of file ./bibliography/2022/research_arcticbuildtech_ArcticGovernmentsAndPrograms.bib
 Database file #7: ./bibliography/2022/research_arcticbuildtech_urbanPlanningTexts.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 28 entries,
+You've used 29 entries,
             3036 wiz_defined-function locations,
-            876 strings with 15610 characters,
-and the built_in function-call counts, 8958 in all, are:
-= -- 1149
-> -- 211
+            880 strings with 15934 characters,
+and the built_in function-call counts, 9129 in all, are:
+= -- 1170
+> -- 212
 < -- 42
-+ -- 84
++ -- 85
 - -- 54
-* -- 490
-:= -- 1161
-add.period$ -- 108
-call.type$ -- 28
+* -- 497
+:= -- 1185
+add.period$ -- 110
+call.type$ -- 29
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 423
-empty$ -- 820
+cite$ -- 29
+duplicate$ -- 432
+empty$ -- 840
 format.name$ -- 54
-if$ -- 2248
+if$ -- 2290
 int.to.chr$ -- 0
-int.to.str$ -- 28
+int.to.str$ -- 29
 missing$ -- 0
-newline$ -- 162
+newline$ -- 166
 num.names$ -- 76
-pop$ -- 199
+pop$ -- 206
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 96
 quote$ -- 0
-skip$ -- 305
+skip$ -- 310
 stack$ -- 0
-substring$ -- 421
-swap$ -- 267
+substring$ -- 430
+swap$ -- 270
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 52
-width$ -- 30
-write$ -- 413
-(There were 13 warnings)
+width$ -- 31
+write$ -- 422
+(There were 14 warnings)
