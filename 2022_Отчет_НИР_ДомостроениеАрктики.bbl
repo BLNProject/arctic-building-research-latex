@@ -35,6 +35,12 @@
 \newblock P.~110445. \BibUrl{
   https://www.sciencedirect.com/science/article/pii/S0301479720303790}.
 
+\bibitem{business_US_ESG}
+\selectlanguageifdefined{english}
+Environmental, Social, and Governance. Доступ из
+  информационной системы esg.org. \BibUrl{
+  https://www.esg.org/what-is-esg}.
+
 \bibitem{2016bueemethod_FOX_317}
 \selectlanguageifdefined{english}
 \BibEmph{Fox~Matthew, Goodhew~Steve, {De Wilde}~Pieter}. Building defect
