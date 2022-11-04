@@ -137,16 +137,6 @@ Time-lapse thermography for building defect detection~/ Matthew~Fox,
   информации». \BibUrl{
   http://www.pravo.gov.ru/proxy/ips/?docbody%5C&nd=102090643}.
 
-\bibitem{2020buee_Gushin_EnergysaveTrends}
-\selectlanguageifdefined{russian}
-\BibEmph{Гущин~С.~В., Семиненко~А.~С., Shen~C.}
-  Мировые тенденции развития
-  энергосберегающих технологий~//
-  \BibEmph{Вестник БГТУ им. В.Г. Шухова}. ---
-\newblock 2020. ---
-\newblock {№}~5. ---
-\newblock {С.}~32--43. \BibUrl{ https://vestnik_rus.bstu.ru/arhiv}.
-
 \bibitem{law_FIN_RulesCode_LanduseAndBuilding}
 \selectlanguageifdefined{english}
 Закон о землепользовании и строительстве =
@@ -172,6 +162,17 @@ Time-lapse thermography for building defect detection~/ Matthew~Fox,
 \newblock 2020. ---
 \newblock {№}~6. ---
 \newblock {С.}~29--34.
+
+\bibitem{method_GB_BREEAM}
+\selectlanguageifdefined{english}
+Методика Средовой Оценки Строительного
+  научно-исследовательского института:
+  Решения = Building Research Establishment Environmental Assessment
+  Method (BREEAM): Solutions. Доступ из информационной
+  системы Строительного
+  научно-исследовательского института
+  Великобритании. \BibUrl{
+  https://bregroup.com/products/breeam/breeam-solutions/}.
 
 \bibitem{law_RU_fz_EnergyEff}
 \selectlanguageifdefined{russian}
